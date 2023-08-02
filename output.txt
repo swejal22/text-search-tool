@@ -1,0 +1,8 @@
+.\text_search.py:13
+.\text_search.py:14
+.\text_search.py:20
+.\text_search.py:22
+.\text_search.py:25
+.\text_search.py:27
+.\text_search_readme.txt:39
+.\text_search_readme.txt:53
